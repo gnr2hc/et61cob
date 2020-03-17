@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 asas
 asas
 =======
 121212
 >>>>>>> stash
+=======
+this file contain in brand_01
+>>>>>>> brand_01
